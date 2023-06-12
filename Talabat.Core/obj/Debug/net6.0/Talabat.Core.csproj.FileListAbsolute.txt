@@ -1,0 +1,12 @@
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+C:\Users\moham\OneDrive\Desktop\ASP Core API\Talabat\Talabat\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
